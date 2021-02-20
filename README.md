@@ -5,4 +5,4 @@ To use this example goto bin folder run from os shell command of jdk: rmiregistr
 Then open another os shell goto bin folder and run command to start Server: java MyServer
 Then open another os shell goto bin folder and run command to start Client: java MyClient
 
-To use rmiregistry create an environment os variable PATH to point jdk/bin folder installation.
+To use rmiregistry command create an environment os variable PATH to point jdk/bin folder installation.
